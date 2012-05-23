@@ -11,6 +11,8 @@ typedef struct list {
 } List;
 
 //--
+List *create_list();
+
 
 
 int main(int argc, char **argv) {
